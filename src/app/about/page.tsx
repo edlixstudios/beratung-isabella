@@ -9,7 +9,7 @@ export default function SuperVision() {
                 <h2 className="text-4xl font-bold mb-4">Über mich</h2>
                 <ul className="py-4 px-8">
                     <li className="list-disc">Studium der sozialen Arbeit</li>
-                    <li className="list-disc">Thesis zum "Paradigmenwechsel in der Suchthilfe"</li>
+                    <li className="list-disc">Thesis zum "Paradigmenwechsel in der Suchthilfe</li>
                     <li className="list-disc">
                         Langjährige Tätigkeit in der Suchthilfe (ambulant und stationär)
                     </li>
