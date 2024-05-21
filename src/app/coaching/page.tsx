@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { ContentWrapper } from "../components/content-wrapper";
 import { PageLayout } from "../components/page-layout";
+import { Listing } from "../components/listing";
 
 export default function SuperVision() {
     return (
@@ -30,12 +31,15 @@ export default function SuperVision() {
                 </p>
                 <br />
                 <p>Folgende Coachingformate biete ich an:</p>
-                <ul className="py-4 px-8">
+                <Listing>
+
+                
                     <li className="list-disc">Führungskräfte Coaching</li>
                     <li className="list-disc">Karriereberatung</li>
                     <li className="list-disc">Change Management</li>
                     <li className="list-disc">Generationswechseln in Führungspositionen</li>
-                </ul>
+                
+                </Listing>
             </ContentWrapper>
         </PageLayout>
     );

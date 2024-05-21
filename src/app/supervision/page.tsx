@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { ContentWrapper } from "../components/content-wrapper";
 import { PageLayout } from "../components/page-layout";
+import { Listing } from "../components/listing";
 
 export default function SuperVision() {
     return (
@@ -31,11 +32,14 @@ export default function SuperVision() {
                 </p>
                 <br />
                 <p>Folgende Supervisionsformate biete ich an:</p>
-                <ul className="py-4 px-8">
+                <Listing>
+
+                
                     <li className="list-disc">Leitungssupervision</li>
                     <li className="list-disc">Teamsupervision</li>
                     <li className="list-disc">Fallsupervision</li>
-                </ul>
+                
+                </Listing>
             </ContentWrapper>
         </PageLayout>
     );

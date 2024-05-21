@@ -1,17 +1,17 @@
-import Image from "next/image";
+// import Image from "next/image";
 import { ContentWrapper } from "./components/content-wrapper";
 import { PageLayout } from "./components/page-layout";
 
 export default function Home() {
     return (
         <PageLayout>
-            <Image
+            {/* <Image
                 src={"/pic.jpeg"}
                 className="float-start mr-5"
                 alt={"Image"}
                 width={250}
                 height={500}
-            />
+            /> */}
             <ContentWrapper>
                 <p>
                     In meiner Arbeit als Coach und Supervisor bewege ich mich stets im Spannungsfeld
