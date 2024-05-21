@@ -63,7 +63,7 @@ export const Header = () => {
                         </button>
                     </div>
 
-                    <ul className="flex flex-col gap-4 p-4 w-full ">
+                    <ul className="flex flex-col gap-4 p-4 w-full text-center ">
                         {navigationMenue.map((menueItem, index) => (
                             <li key={`${index}-small`} onClick={() => setOpen(false)}>
                                 <NavigationLink {...menueItem} />
