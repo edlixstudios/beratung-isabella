@@ -3,8 +3,9 @@
 import Image from "next/image";
 import { NavigationLink } from "./navigationLink";
 import { MenuIcon, XIcon } from "lucide-react";
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { motion } from "framer-motion";
+import { useDocument } from "$/hooks/useDocument";
 
 const navigationMenue = [
     {
@@ -31,6 +32,7 @@ const navigationMenue = [
 
 export const Header = () => {
     const [open, setOpen] = useState(false);
+    const document = useDocument();
 
     return (
         <header className="flex flex-col items-center gap-2 p-4 relative">
@@ -51,7 +53,16 @@ export const Header = () => {
                         ease: "linear",
                     }}
                     initial={{ x: -500 }}
-                    animate={!open ? { x: -500 } : { x: 0 }}
+                    animate={
+                        !open
+                            ? {
+                                  x:
+                                      document.current && document.current.innerWidth
+                                          ? -document.current.innerWidth
+                                          : -500,
+                              }
+                            : { x: 0 }
+                    }
                     className="bg-white absolute top-0 w-screen h-screen "
                 >
                     <div className="mb-4">
