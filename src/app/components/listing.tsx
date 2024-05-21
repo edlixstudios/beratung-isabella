@@ -1,4 +1,4 @@
-
+import { ReactNode } from "react";
 
 export const Listing = ({children}:{children:ReactNode}) => {
 
