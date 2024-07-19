@@ -7,7 +7,6 @@ export default function SuperVision() {
   return (
     <PageLayout>
       <ContentWrapper>
-        <h2 className="text-4xl font-bold mb-4">Über mich</h2>
         <Listing>
           <li className="list-disc">Studium der sozialen Arbeit</li>
           <li className="list-disc">
