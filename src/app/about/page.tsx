@@ -7,7 +7,7 @@ export default function SuperVision() {
   return (
     <PageLayout>
       <ContentWrapper>
-        <div className={"flex items-center"}  >
+        <div className={"grid grid-cols-1 xl:grid-cols-2"}  >
         <Listing>
           <li className="list-disc">Studium der Sozialen Arbeit, Hochschule Ludwigshafen am Rhein
           </li>
