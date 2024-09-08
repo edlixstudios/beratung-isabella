@@ -11,7 +11,7 @@ export default function Home() {
           <Image className={"mb-4"} src={"/me-new-small.jpeg"} alt={"Isabella"} width={200} height={200} />
         </div>
         <p>
-          In meiner psychodynamisch- systemischen Arbeit als Coach und Supervisorin bewege ich mich stets im Spannungsfeld zwischen unterstützender Begleitung und zielgerichteter Strukturierung. Mit einem feinen Gespür für die Bedürfnisse und Dynamiken moderner Arbeitskontexte hilft Supervison Klarheit zu schaffen und eigene Werte sowie eine authentische berufliche Haltung zu entwickeln.
+          In meiner psychodynamisch- systemischen Arbeit als Coach und Supervisorin bewege ich mich stets im Spannungsfeld zwischen unterstützender Begleitung und zielgerichteter Strukturierung. Mit einem feinen Gespür für die Bedürfnisse und Dynamiken moderner Arbeitskontexte hilft Supervision Klarheit zu schaffen und eigene Werte sowie eine authentische berufliche Haltung zu entwickeln.
         </p>
         <br />
         <p>
