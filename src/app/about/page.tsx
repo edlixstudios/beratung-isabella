@@ -7,34 +7,34 @@ export default function SuperVision() {
   return (
     <PageLayout>
       <ContentWrapper>
+        <div className={"flex items-center"}  >
         <Listing>
-          <li className="list-disc">Studium der sozialen Arbeit</li>
-          <li className="list-disc">
-            Thesis zum "Paradigmenwechsel in der Suchthilfe
+          <li className="list-disc">Studium der Sozialen Arbeit, Hochschule Ludwigshafen am Rhein
           </li>
           <li className="list-disc">
-            Langjährige Tätigkeit in der Suchthilfe (ambulant und stationär)
+            Thesis zum "Paradigmenwechsel in der Suchthilfe"
+          </li>
+          <li className="list-disc">
+            Langjährige Tätigkeit in der  Suchthilfe (ambulant und stationär)
           </li>
           <li className="list-disc">Fachliche Leitung und Geschäftsführung</li>
           <li className="list-disc">
-            Master of Arts Coaching, Supervision und Organisationsberatung, DGSv
-            (i.A.)
+            Master of Arts Coaching, Supervision und Organisationsberatung, DGSv (i.A.), Universität Kassel
           </li>
           <li className="list-disc">
-            Regelmäßige Weiterbildung und Teilnahme an Tagungen und Kongressen;
-            Qualitätssicherung durch Reflexion der eigenen Arbeit in
-            unterschiedlichen Settings
+            Regelmäßige Weiterbildung und Teilnahme an Tagungen und Kongressen; Qualitätssicherung durch Reflexion der eigenen Arbeit in unterschiedlichen Settings
           </li>
           <li className="list-disc">Meditation und Buddhismus</li>
           <li className="list-disc">Mutter einer Tochter</li>
         </Listing>
         <Image
           className="p-4 mx-auto"
-          src={"/me.jpg"}
+          src={"/me-new.jpeg"}
           alt={"Isabella Heilig"}
-          width={800}
-          height={800}
+          width={400}
+          height={400}
         />
+        </div>
       </ContentWrapper>
     </PageLayout>
   );
