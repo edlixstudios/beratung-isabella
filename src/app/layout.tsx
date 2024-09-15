@@ -21,7 +21,8 @@ export default function RootLayout({
   return (
     <html lang="de">
       <body className={twMerge(inter.className, "min-h-screen flex flex-col")}>
-        <Header />
+        <h1 className={"hidden"}>Beratung Pforzheim Isabella Heilig</h1>
+<Header />
         {children}
         <Dgsv />
         <Footer />
