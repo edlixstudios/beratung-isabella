@@ -22,7 +22,7 @@ const navigationMenue = [
   },  {
     name: "Organisationsberatung",
     href: "/organisationsberatung",
-  }
+  },
   {
     name: "Über mich",
     href: "/about",
