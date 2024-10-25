@@ -19,7 +19,10 @@ const navigationMenue = [
   {
     name: "Coaching",
     href: "/coaching",
-  },
+  },  {
+    name: "Organisationsberatung",
+    href: "/organisationsberatung",
+  }
   {
     name: "Über mich",
     href: "/about",
@@ -27,10 +30,7 @@ const navigationMenue = [
   {
     name: "Kontakt",
     href: "/contact",
-  },  {
-    name: "Organisationsberatung",
-    href: "/organisationsberatung",
-  },
+  }, 
 ];
 
 export const Header = () => {
