@@ -33,7 +33,7 @@ export default function SuperVision() {
         <p>
           Mit der Komplexität der Arbeitswelt wächst der Bedarf an qualitativ
           hochwertiger arbeitsweltlicher Beratung. Als Mitglied der DGSv biete
-          ich Coaching in Supervisionsqualität.
+          ich Coaching in Supervisionsqualität. 
         </p>
         <br />
         <p>Folgende Coachingformate biete ich an:</p>
