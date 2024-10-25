@@ -36,10 +36,10 @@ export default function Organisationsberatung() {
           ich Coaching in Supervisionsqualität. 
         </p>
         <br />
-        <p>Folgende Coachingformate biete ich an:</p>
+        <p>Folgende Themen sind Organisationsberatung:</p>
         <Listing>
-          <li className="list-disc">Führungskräfte Coaching</li>
-          <li className="list-disc">Karriereberatung</li>
+          <li className="list-disc">Strukturentwicklung</li>
+          <li className="list-disc">Konzeptionsentwicklung</li>
           <li className="list-disc">Change Management</li>
           <li className="list-disc">
             Generationswechseln in Führungspositionen
