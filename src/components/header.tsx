@@ -27,6 +27,9 @@ const navigationMenue = [
   {
     name: "Kontakt",
     href: "/contact",
+  },  {
+    name: "Organisationsberatung",
+    href: "/organisationsberatung",
   },
 ];
 
