@@ -8,42 +8,46 @@ export default function Organisationsberatung() {
       <ContentWrapper>
         {/* <h2 className="text-4xl font-bold mb-4">Coaching</h2> */}
         <p>
-          Coaching ist ein zielgerichteter und individueller Beratungsprozess,
-          der Menschen dabei unterstützt, ihre persönlichen und beruflichen
-          Ziele zu erreichen. Ein Coach begleitet den Klienten durch Gespräche
-          und gezielte Fragen, um Klarheit über eigene Stärken, Ressourcen und
-          Entwicklungspotenziale zu gewinnen.
+          Organisationen stehen oft vor großen Veränderungen, wie Digitalisierung, Marktveränderungen 
+          oder neuen regulatorischen Anforderungen. Auch Kulturwandel, Führungskräftemangel und strategische 
+          Ausrichtungen können Innhalte von Organisationsberatung sein. Organisationsberatung kann dabei 
+          einen wichtig Beitrag leisten, weil sie Unternehmen dabei unterstützt, effizienter, agiler und 
+          erfolgreicher auf interne sowie externe Herausforderungen zu reagieren. 
         </p>
         <br />
         <p>
-          Im Coaching werden konkrete Herausforderungen und Ziele definiert, und
-          es wird gemeinsam an der Entwicklung von Strategien und
-          Lösungsansätzen gearbeitet. Der Coach bietet keine fertigen Lösungen
-          an, sondern fördert die Selbstreflexion und Eigenverantwortung des
-          Klienten.
+          Im Weiteren kann Beratung dabei Helfen die Organisationskultur und Mitarbeiterzufriedenheit zu 
+          analysieren und positive Veränderungen anzustoßen. Eine unterstützende, aufgeschlossene Kultur 
+          kann die Motivation und Zufriedenheit der Mitarbeiter steigern, 
+          was wiederum die Fluktuation verringert und die Produktivität steigert.
         </p>
         <br />
         <p>
-          Durch diesen Prozess können Fähigkeiten gestärkt, neue Perspektiven
-          gewonnen und Handlungsmöglichkeiten erweitert werden. Coaching trägt
-          dazu bei, persönliche und berufliche Entwicklungen voranzutreiben, die
-          Leistungsfähigkeit zu steigern und das Wohlbefinden zu verbessern.
+          Die neutrale Perspektive einer Berateung bringen eine objektive Außensicht ein. 
+          Diese Unabhängigkeit hilft, blinde Flecken und systemische Probleme zu erkennen, 
+          die intern oft übersehen werden, und ermöglicht dadurch eine umfassendere Analyse und Lösungsentwicklung.
+          Professionelle Arbeitsweltberatung vermittelt Fachwissen und Methoden, die Unternehmen und Mitarbeiter für die eigene 
+          Entwicklung nutzen können. Dies stärkt die Kompetenzen der Belegschaft und hilft, zukünftige Herausforderungen besser zu bewältigen.
         </p>
         <br />
         <p>
-          Mit der Komplexität der Arbeitswelt wächst der Bedarf an qualitativ
-          hochwertiger arbeitsweltlicher Beratung. Als Mitglied der DGSv biete
-          ich Coaching in Supervisionsqualität. 
+          Insgesamt trägt Organisationsberatung zur langfristigen Stabilität, Innovationskraft und 
+          Zufriedenheit innerhalb eines Unternehmens bei und schafft damit eine Basis für nachhaltigen Erfolg.
+          Sie nimmt Organisation oder Organisationseinheiten als Ganzes in den Blick. Vorrangiges Ziel ist, die Funktions- und Leistungsfähigkeit 
+          einer Organisation bzw. Organisationseinheit zu erhalten oder zu steigern. Organisationsberatung ist die professionelle Beratung und 
+          Begleitung von Veränderungsprozessen. Sie bedient sich verschiedenster Formate, mit denen in die Organisation hinein Wirkung entfaltet wird. 
+          Auch Supervision und Coaching können in Organisationsberatungs-Prozesse integriert werden.
         </p>
         <br />
-        <p>Folgende Themen sind Organisationsberatung:</p>
+        <p>Folgende Innhalte werden mit Organisationsberatung adressiert:</p>
         <Listing>
           <li className="list-disc">Strukturentwicklung</li>
           <li className="list-disc">Konzeptionsentwicklung</li>
           <li className="list-disc">Change Management</li>
-          <li className="list-disc">
-            Generationswechseln in Führungspositionen
+          <li className="list-disc">Fachkräftemangel</li>
+           <li className="list-disc">Generationswechseln und demographischer Wandel
           </li>
+          <li className="list-disc">Organisationskultur und Marke</li>
         </Listing>
       </ContentWrapper>
     </PageLayout>
