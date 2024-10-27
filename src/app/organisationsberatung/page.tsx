@@ -43,6 +43,7 @@ export default function Organisationsberatung() {
         <Listing>
           <li className="list-disc">Strukturentwicklung</li>
           <li className="list-disc">Konzeptionsentwicklung</li>
+          <li className="list-disc">Teamentwicklung</li>
           <li className="list-disc">Change Management</li>
           <li className="list-disc">Fachkräftemangel</li>
            <li className="list-disc">Generationswechseln und demographischer Wandel
