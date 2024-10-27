@@ -40,6 +40,7 @@ export default function SuperVision() {
         <Listing>
           <li className="list-disc">Führungskräfte Coaching</li>
           <li className="list-disc">Karriereberatung</li>
+          <li className="list-disc">Teamentwicklung</li>
           <li className="list-disc">Change Management</li>
           <li className="list-disc">
             Generationswechseln in Führungspositionen
