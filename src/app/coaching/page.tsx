@@ -31,7 +31,7 @@ export default function SuperVision() {
         </p>
         <br />
         <p>
-          Mit der Komplexität der Arbeitswelt wächst der Bedarf an qualitativ
+          \RaggedRight{}  Mit der Komplexität der Arbeitswelt wächst der Bedarf an qualitativ
           hochwertiger arbeitsweltlicher Beratung. Als Mitglied der DGSv biete
           ich Coaching in Supervisionsqualität. 
         </p>
