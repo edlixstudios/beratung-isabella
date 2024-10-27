@@ -9,7 +9,7 @@ export default function Organisationsberatung() {
         {/* <h2 className="text-4xl font-bold mb-4">Coaching</h2> */}
         <p>
           Organisationen stehen oft vor großen Veränderungen, wie Digitalisierung, Marktveränderungen 
-          oder neuen regulatorischen Anforderungen. Auch Kulturwandel, Führungskräftemangel und strategische 
+          oder neuen regulatorischen Anforderungen. Auch Kulturwandel, Fachkräftemangel und strategische 
           Ausrichtungen können Inhalte von Organisationsberatung sein. Organisationsberatung kann dabei 
           einen wichtig Beitrag leisten, weil sie Unternehmen dabei unterstützt, effizienter, agiler und 
           erfolgreicher auf interne sowie externe Herausforderungen zu reagieren. 
