@@ -10,20 +10,20 @@ export default function Organisationsberatung() {
         <p>
           Organisationen stehen oft vor großen Veränderungen, wie Digitalisierung, Marktveränderungen 
           oder neuen regulatorischen Anforderungen. Auch Kulturwandel, Führungskräftemangel und strategische 
-          Ausrichtungen können Innhalte von Organisationsberatung sein. Organisationsberatung kann dabei 
+          Ausrichtungen können Inhalte von Organisationsberatung sein. Organisationsberatung kann dabei 
           einen wichtig Beitrag leisten, weil sie Unternehmen dabei unterstützt, effizienter, agiler und 
           erfolgreicher auf interne sowie externe Herausforderungen zu reagieren. 
         </p>
         <br />
         <p>
-          Im Weiteren kann Beratung dabei Helfen die Organisationskultur und Mitarbeiterzufriedenheit zu 
+          Im Weiteren kann Beratung dabei helfen die Organisationskultur und Mitarbeiterzufriedenheit zu 
           analysieren und positive Veränderungen anzustoßen. Eine unterstützende, aufgeschlossene Kultur 
           kann die Motivation und Zufriedenheit der Mitarbeiter steigern, 
           was wiederum die Fluktuation verringert und die Produktivität steigert.
         </p>
         <br />
         <p>
-          Die neutrale Perspektive einer Berateung bringen eine objektive Außensicht ein. 
+          Die neutrale Perspektive einer Beratung bringen eine objektive Außensicht ein. 
           Diese Unabhängigkeit hilft, blinde Flecken und systemische Probleme zu erkennen, 
           die intern oft übersehen werden, und ermöglicht dadurch eine umfassendere Analyse und Lösungsentwicklung.
           Professionelle Arbeitsweltberatung vermittelt Fachwissen und Methoden, die Unternehmen und Mitarbeiter für die eigene 
@@ -39,7 +39,7 @@ export default function Organisationsberatung() {
           Auch Supervision und Coaching können in Organisationsberatungs-Prozesse integriert werden.
         </p>
         <br />
-        <p>Folgende Innhalte werden mit Organisationsberatung adressiert:</p>
+        <p>Folgende Inhalte werden mit Organisationsberatung adressiert:</p>
         <Listing>
           <li className="list-disc">Strukturentwicklung</li>
           <li className="list-disc">Konzeptionsentwicklung</li>
