@@ -10,28 +10,32 @@ export default function SuperVision() {
         <div className={"grid grid-cols-1 items-center xl:grid-cols-2"}>
           <Listing>
             <li className="list-disc">
-              Studium der Sozialen Arbeit, Hochschule Ludwigshafen am Rhein
+              Fachliche Leitung und Geschäftsführung 
             </li>
             <li className="list-disc">
+              Masterstudium an der Universität Kassel 
+              Coaching, Supervision und Organisationsberatung, DGSv (i.A.)
+            </li>
+            <li className="list-disc">
+              Langjährige Tätigkeit in der Suchthilfe (ambulant und stationär)          
+            </li>
+            <li className="list-disc"> 
+            Studium der Sozialen Arbeit, Hochschule Ludwigshafen am Rhein
+            </li>
+            <li className="list-disc"> 
               Thesis zum "Paradigmenwechsel in der Suchthilfe"
-            </li>
-            <li className="list-disc">
-              Langjährige Tätigkeit in der Suchthilfe (ambulant und stationär)
-            </li>
-            <li className="list-disc">
-              Fachliche Leitung und Geschäftsführung
-            </li>
-            <li className="list-disc">
-              Master of Arts Coaching, Supervision und Organisationsberatung,
-              DGSv (i.A.), Universität Kassel
-            </li>
+            </li>           
             <li className="list-disc">
               Regelmäßige Weiterbildung und Teilnahme an Tagungen und
               Kongressen; Qualitätssicherung durch Reflexion der eigenen Arbeit
               in unterschiedlichen Settings
             </li>
-            <li className="list-disc">Meditation und Buddhismus</li>
-            <li className="list-disc">Mutter einer Tochter</li>
+            <li className="list-disc">
+              Meditation und Buddhismus
+            </li>
+            <li className="list-disc">
+              Mutter einer Tochter
+            </li>
           </Listing>
           <Image
             className="p-4 mx-auto"
